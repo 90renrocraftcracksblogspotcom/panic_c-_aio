@@ -1,8 +1,2 @@
-# panic_c-_aio
-Panic C++ Aio All c++ Redist installer
-Press The .EXE 
-Tutorial Here - https://youtu.be/4Z7IJvXY8Dk?si=ML5JlPxePRRBiU6A
-Please Support Me On  Yt @renrocraftyt
-More Updates Soon
-Also New UI Will Be Better than this
-Stay Tuned.....
+In This Version V2.0 ALL OF THEM ARE ADDED
+TUTOrial - https://youtu.be/4Z7IJvXY8Dk?si=Hb87Ba4tKSqYgQSX
